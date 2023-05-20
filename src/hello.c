@@ -7,7 +7,7 @@ int main () {
 
    /* do loop execution */
    do {
-      printf("It has a  value of a: %d\n", a);
+      printf("It has a  value of aa: %d\n", a);
       a = a + 1;
    }while( a < 20 );
  
